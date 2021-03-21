@@ -1,5 +1,9 @@
 # TapElixirApi
 
+How to install Elixir?
+
+Visit https://elixir-lang.org/install.html to instructions
+
 To start your Phoenix server:
 
   * Install dependencies with `mix deps.get`
